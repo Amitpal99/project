@@ -1,6 +1,5 @@
 import react from 'react';
 import React, { useState, useEffect } from "react";
-import MovieList from './MovieList';
 
 function Index2() {
   const [data, setData] = useState([]);
